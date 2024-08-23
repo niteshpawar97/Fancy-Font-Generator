@@ -1,5 +1,4 @@
 
-```markdown
 # Fancy Font Generator
 
 Fancy Font Generator is a React-based web application that allows users to generate stylish and fancy text fonts for use on social networks, websites, and more. The tool provides multiple font styles with the ability to copy the generated text to the clipboard.
@@ -73,7 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **NiketGroup** - [Website](https://niketgroup.in)
 - **Developer: Nitesh Kadve** - [LinkedIn](https://in.linkedin.com/in/niteshkadve)
 
-```
 
 
 
@@ -81,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 You can add screenshots to showcase your app. Screenshots help users quickly understand what the app looks like and how it works.
 
-```markdown
+
 ## Screenshots
 
 ### Home Page
@@ -92,13 +90,13 @@ You can add screenshots to showcase your app. Screenshots help users quickly und
 
 ![Fancy Font Styles](./screenshots/fancy-font-styles.png)
 
-```
+
 
 ## Deployment
 
 If you’re deploying your Fancy Font Generator to a platform like Vercel, Netlify, or GitHub Pages, you can add deployment instructions:
 
-```markdown
+
 ## Deployment
 
 ### Vercel
@@ -159,13 +157,11 @@ To deploy the project on GitHub Pages:
    npm run deploy
    ```
 
-```
-
 ## Troubleshooting
 
 Provide common issues users might encounter and how to resolve them:
 
-```markdown
+
 ## Troubleshooting
 
 ### Common Issues
@@ -176,28 +172,28 @@ Provide common issues users might encounter and how to resolve them:
 ### Getting Help
 
 If you encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/niteshpawar97/Fancy-Font-Generator/issues).
-```
+
 
 ## Future Features
 
 Mention any features you plan to add in the future:
 
-```markdown
+
 ## Future Features
 
 - **More Font Styles:** Adding additional unique font styles.
 - **User Customization:** Allowing users to create their own styles.
 - **Export Options:** Enabling users to download the text as an image or PDF.
-```
+
 
 ## Acknowledgments
 
 If you’d like to acknowledge any resources or inspiration for your project:
 
-```markdown
+
 ## Acknowledgments
 
 - [Tailwind CSS](https://tailwindcss.com) for providing an excellent utility-first CSS framework.
 - [React](https://reactjs.org/) for making it easy to build interactive user interfaces.
 - Special thanks to all contributors and the open-source community.
-```
+
